@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   27 mins         ████████████████████████▓   99.31 %
-SCSS         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+JavaScript   17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
