@@ -4,7 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Docker       59 mins         █████████████████▓░░░░░░░   70.29 %
+Other        12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
+JSON         8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
