@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   5 hrs 44 mins   ████████▒░░░░░░░░░░░░░░░░   32.69 %
-MDX                        4 hrs 38 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
-TypeScript                 1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-JavaScript                 1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-JSON                       1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Markdown                   4 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   29.04 %
+MDX                        4 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   27.38 %
+TypeScript                 2 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Docker                     1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+JavaScript                 1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
 ```
 
 <!--END_SECTION:waka-->
