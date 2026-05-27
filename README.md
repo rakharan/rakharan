@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          6 hrs 21 mins         ███████▒░░░░░░░░░░░░░░░░░   28.70 %
-MQL          4 hrs 52 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
-JavaScript   2 hrs 38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
-TypeScript   1 hr 46 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-Markdown     1 hr 33 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+PHP          7 hrs 7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.53 %
+JavaScript   6 hrs 41 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
+MQL          4 hrs 29 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+TypeScript   3 hrs 53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
+Markdown     1 hr 19 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 ```
 
 <!--END_SECTION:waka-->
